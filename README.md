@@ -1,2 +1,2 @@
-# Lab-2
-MGT 665 - Lab 2
+# Lab-1
+MGT 665 - Lab 1
